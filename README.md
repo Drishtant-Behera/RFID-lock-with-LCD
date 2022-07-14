@@ -1,4 +1,4 @@
-# RFID-lock-with-LCD
+# RfidLockWithLCD
 This project is a simple rfid lock with lcd conected to it 
 We have a fritzing digram atatched to it in the description 
 code and schematics are uploaded 
